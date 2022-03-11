@@ -1,0 +1,20 @@
+Rohith - Data Manipulation Exercise - 08-02-2022 10:19:28
+
+Assignment Type,Assignment Score
+Assignment@1,35
+Assignment_2,57
+Assignment_3,27
+Assignment_4,70
+Assignment_5,-3
+Assignment_6,65.5
+Assignment_7,81
+Assignment_8,43
+Assignment_9,19
+
+Completed 08-02-2022 10:19:40
+
+Assignment@1   47.3
+Assignment_3   36.49
+Assignment_5   -4.05
+Assignment_8   58.11
+Assignment_9   25.68

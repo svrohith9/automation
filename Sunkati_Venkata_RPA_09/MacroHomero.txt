@@ -1,0 +1,11 @@
+Sub Homero()
+'
+' Macro3 Macro
+'
+
+'
+    Sheets("Manager Approvals").Select
+    ActiveSheet.PivotTables("PivotTable2").PivotFields("Manager").ClearAllFilters
+    ActiveSheet.PivotTables("PivotTable2").PivotFields("Manager").CurrentPage = _
+        "Homero"
+End Sub

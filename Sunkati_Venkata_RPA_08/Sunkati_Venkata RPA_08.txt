@@ -1,0 +1,46 @@
+Rohith 03-03-2022
+ 
+The Robotic Process Automation Handbook: A Guide to Implementing RPA Systems
+Robotic Process Automation: Guide To Building Software Robots, Automate Repetitive Tasks & Become An RPA Consultant
+Learning Robotic Process Automation: Create Software robots and automate business processes with the leading RPA tool – UiPath
+Robotic Process Automation using UiPath StudioX: A Citizen Developer’s Guide to Hyperautomation
+Robotic Process Automation Projects: Build real-world RPA solutions using UiPath and Automation Anywhere
+The Project Manager's Guide to RPA: A Practical Guide for Deploying Robotics Process Automation
+The Digital Transformation Journey: How To Implement Robotic Process Automation That Scales: How Rpa Is Implemented
+Robotic Process Automation with Automation Anywhere: Techniques to fuel business productivity and intelligent automation using RPA
+Intelligent Automation Simplified: Learn Enterprise Automation, AI-Led Automation, and Robotic Process Automation with Use-cases (English Edition)
+Robotic Process Automation Tools, Process Automation and Their Benefits: Understanding Rpa and Intelligent Automation
+The Simple Implementation Guide to Robotic Process Automation (Rpa): How to Best Implement Rpa in an Organization
+Robotic Process Automation Tools: Scalable RPA CoE For Your Management: Benefits Of Rpa Coe
+The Care and Feeding of Bots: An Owner’s Manual for Robotic Process Automation
+The Project Manager's Guide to RPA: A Practical Guide for Deploying Robotics Process Automation
+Business @ the Speed of Bots: The AEIO YOU Method: How to Implement Robotic Process Automation That Scales. Implement RPA and IA in a Fast and Scalable...For the New Digital Transformation Age
+Robotic Process Automation (RPA): Business Presentation (FlevyPro Frameworks)
+ 
+x. A.
+B. Course Policies: Grades
+Policy Regarding Contesting a Grade:
+You have one week (seven calendar days) following the posting of a grade AFTER the due date and
+release/unmuting of the grades after evaluation of the automated grading results to contest the grade.
+If the grade is not contested by 5 pm (Eastern) on the fifth University business day, then the grade
+posted stands as final. For purposes of contesting a grade, an email to the email address listed above
+with a subject line of CONTESTING MY GRADE and a body with your name, the course, the assignment,
+and a brief explanation of why you are contesting the grade shall constitute notice of your intention to
+contest a grade.
+Late Work Policy:
+Submissions will be made via Canvas, and the time stamp provided by Canvas utilized as the official
+recorded time of submission. I do not allow late work to be submitted unless there is prior approval by
+me based on special circumstances.
+o Failure to submit an assignment when due results in an automatic grade of zero (O) on that
+assignment.
+o I reserve the right to require submission of an alternate assignment in lieu of the originally assigned
+work in the event of an prior approved change to due date.
+ 
+•This folder includes:
+»a Main.xaml file is automatically created, which should hold your main
+workflow.
+>all other automation .xaml files included in the project. Please note that these
+files have to be linked to the Main xaml through the Invoke Workflow File
+activity, because only the Main_xaml file is executed when you run a job.
+.screenshots folder, if you are dealing with Ul automation.
+project.json file that contains information about your automation project.

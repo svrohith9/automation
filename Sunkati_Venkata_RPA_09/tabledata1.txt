@@ -1,0 +1,105 @@
+﻿<tr><td>Autorizações</td><td>ALT</td><td>BC215</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCE06</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCE20</td><td>2</td></tr>
+<tr><td></td><td></td><td>BCLI300</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCLI302</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCLI305</td><td>2</td></tr>
+<tr><td></td><td></td><td>BCLI310</td><td>2</td></tr>
+<tr><td></td><td></td><td>BCLI311</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCLI380</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOCOMED</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOE11</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI35</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI60</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI62</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI63</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI70</td><td>2</td></tr>
+<tr><td></td><td></td><td>BCOI72</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI74</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI78</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI79</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOS01</td><td>2</td></tr>
+<tr><td></td><td></td><td>BCOS78</td><td>2</td></tr>
+<tr><td></td><td></td><td>BROD115</td><td>1</td></tr>
+<tr><td></td><td></td><td>BRODLGB</td><td>1</td></tr>
+<tr><td></td><td>ALT Total</td><td></td><td>30</td></tr>
+<tr><td></td><td>New</td><td>BCLI300</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOS01</td><td>1</td></tr>
+<tr><td></td><td></td><td>BRLD002</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROI01</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROI02</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROI03</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROI04</td><td>1</td></tr>
+<tr><td></td><td>New Total</td><td></td><td>7</td></tr>
+<tr><td>Autorizações Total</td><td></td><td></td><td>37</td></tr>
+<tr><td>Interfaces Online</td><td>ALT</td><td>BCOI07</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI08</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI80</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI80M</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI80V</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI81</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI98</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROD095</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROD096</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROD115</td><td>1</td></tr>
+<tr><td></td><td>ALT Total</td><td></td><td>10</td></tr>
+<tr><td></td><td>New</td><td>BRBI340</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROD098</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR1</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR2</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR3</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR4</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR5</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR6</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR7</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR8</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIR9</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRA</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRB</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRC</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRD</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRE</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRF</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRG</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRH</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRI</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIRJ</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROIVNET</td><td>1</td></tr>
+<tr><td></td><td></td><td>NOVO</td><td>3</td></tr>
+<tr><td></td><td>New Total</td><td></td><td>25</td></tr>
+<tr><td>Interfaces Online Total</td><td></td><td></td><td>35</td></tr>
+<tr><td>Parcelado</td><td>Mod</td><td>BC210</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCS21</td><td>1</td></tr>
+<tr><td></td><td></td><td>BRBH162</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROH001S</td><td>1</td></tr>
+<tr><td></td><td></td><td>UARPO065</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPB001</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPB003</td><td>3</td></tr>
+<tr><td></td><td></td><td>UPPPB006</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPB021</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPB201</td><td>2</td></tr>
+<tr><td></td><td></td><td>UPPPB302</td><td>2</td></tr>
+<tr><td></td><td></td><td>UPPPO001</td><td>2</td></tr>
+<tr><td></td><td></td><td>UPPPO002</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPO00Y</td><td>2</td></tr>
+<tr><td></td><td></td><td>UPPPO050</td><td>1</td></tr>
+<tr><td></td><td>Mod Total</td><td></td><td>21</td></tr>
+<tr><td></td><td>New</td><td>BRB4001</td><td>3</td></tr>
+<tr><td></td><td></td><td>BRO4001</td><td>2</td></tr>
+<tr><td></td><td></td><td>BRO4002</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPB002</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPB008</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPB009</td><td>2</td></tr>
+<tr><td></td><td></td><td>UPPPB011</td><td>1</td></tr>
+<tr><td></td><td></td><td>UPPPB302</td><td>1</td></tr>
+<tr><td></td><td>New Total</td><td></td><td>12</td></tr>
+<tr><td>Parcelado Total</td><td></td><td></td><td>33</td></tr>
+<tr><td>Fraud</td><td>ALT</td><td>BCOI08</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI31</td><td>1</td></tr>
+<tr><td></td><td></td><td>BCOI32</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROD020</td><td>1</td></tr>
+<tr><td></td><td>ALT Total</td><td></td><td>4</td></tr>
+<tr><td></td><td>New</td><td>BROSGCH</td><td>1</td></tr>
+<tr><td></td><td></td><td>BROSSV</td><td>1</td></tr>
+<tr><td></td><td>New Total</td><td></td><td>2</td></tr>
+<tr><td>Fraud Total</td><td></td><td></td><td>6</td></tr>
