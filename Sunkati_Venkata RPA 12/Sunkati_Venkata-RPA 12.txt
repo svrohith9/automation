@@ -1,0 +1,149 @@
+Venkata Rohith 04-10-2022
+04-10-2022 11:26:12 Search term: RPA Book
+04-10-2022 11:26:14 Search term: RPA Book
+Counter 0
+04-10-2022 11:26:14 Search term: RPA Book
+Counter 0
+04-10-2022 11:26:14 Search term: RPA Book
+Counter 1
+04-10-2022 11:26:15 Search term: RPA Book
+Counter 1
+04-10-2022 11:26:15 Search term: RPA Book
+Counter 1
+04-10-2022 11:26:15 Search term: RPA Book
+Counter 1
+04-10-2022 11:26:15 Search term: RPA Book
+Counter 1
+04-10-2022 11:26:15 Search term: RPA Book
+Counter 1
+04-10-2022 11:26:15 Search term: RPA Book
+Counter 1
+04-10-2022 11:27:09 Search term: Artificial Intelligence
+04-10-2022 11:27:11 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:27:11 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:27:12 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:27:12 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:27:12 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:27:12 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:27:12 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:27:12 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:27:13 Search term: Artificial Intelligence
+Counter 0
+04-10-2022 11:28:01 Search term: Process Automation
+04-10-2022 11:28:03 Search term: Process Automation
+Counter 1
+04-10-2022 11:28:03 Search term: Process Automation
+Counter 1
+04-10-2022 11:28:03 Search term: Process Automation
+Counter 1
+04-10-2022 11:28:04 Search term: Process Automation
+Counter 1
+04-10-2022 11:28:04 Search term: Process Automation
+Counter 1
+04-10-2022 11:28:04 Search term: Process Automation
+Counter 1
+04-10-2022 11:28:04 Search term: Process Automation
+Counter 1
+04-10-2022 11:28:04 Search term: Process Automation
+Counter 2
+04-10-2022 11:28:04 Search term: Process Automation
+Counter 2
+04-10-2022 11:29:07 Search term: Natural Language Processing
+04-10-2022 11:29:49 Search term: Natural Language Processing
+Counter 0
+04-10-2022 11:29:49 Search term: Natural Language Processing
+Counter 0
+04-10-2022 11:29:49 Search term: Natural Language Processing
+Counter 0
+04-10-2022 11:29:49 Search term: Natural Language Processing
+Counter 0
+04-10-2022 11:29:49 Search term: Natural Language Processing
+Counter 0
+04-10-2022 11:29:49 Search term: Natural Language Processing
+Counter 0
+04-10-2022 11:29:49 Search term: Natural Language Processing
+Counter 0
+04-10-2022 11:29:50 Search term: Natural Language Processing
+Counter 1
+04-10-2022 11:29:50 Search term: Natural Language Processing
+Counter 1
+04-10-2022 11:29:50 Search term: Natural Language Processing
+Counter 1
+04-10-2022 11:29:50 Search term: Natural Language Processing
+Counter 2
+04-10-2022 11:29:50 Search term: Natural Language Processing
+Counter 2
+04-10-2022 11:29:50 Search term: Natural Language Processing
+Counter 2
+04-10-2022 11:29:50 Search term: Natural Language Processing
+Counter 3
+04-10-2022 11:29:50 Search term: Natural Language Processing
+Counter 3
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 3
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 3
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 3
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 3
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 3
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 3
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 4
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 4
+04-10-2022 11:29:51 Search term: Natural Language Processing
+Counter 4
+04-10-2022 11:29:52 Search term: Natural Language Processing
+Counter 4
+04-10-2022 11:29:52 Search term: Natural Language Processing
+Counter 4
+04-10-2022 11:29:52 Search term: Natural Language Processing
+Counter 4
+04-10-2022 11:29:52 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:52 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:52 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:52 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:52 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:53 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:54 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:54 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:54 Search term: Natural Language Processing
+Counter 5
+04-10-2022 11:29:54 Search term: Natural Language Processing
+Counter 5
